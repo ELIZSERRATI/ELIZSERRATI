@@ -7,5 +7,3 @@ Sou professora **Elizangela** e trabalho no Colégio Estadual Humberto de Campos
 
 - Como professora iniciante nessa disciplina, estou aprendendo a programar recentemente linguagens na informática.
 - ##### e mail para contato - elizangela.szydloski@escola.pr.gov.br
-
-
