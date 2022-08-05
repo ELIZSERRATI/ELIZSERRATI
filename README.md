@@ -8,5 +8,5 @@ Sou professora **Elizangela** e trabalho no Colégio Estadual Humberto de Campos
 - Como professora iniciante nessa disciplina, estou aprendendo a programar recentemente linguagens na informática.
 - ##### e mail para contato - elizangela.szydloski@escola.pr.gov.br
 
-![https://br.freepik.com/vetores-gratis/conceito-de-educacao-linda-mao-desenhada_2879666.htm#page=2&query=professor%20escola&position=5&from_view=keyword]
+![ ](https://br.freepik.com/vetores-gratis/conceito-de-educacao-linda-mao-desenhada_2879666.htm#page=2&query=professor%20escola&position=5&from_view=keyword)
 
